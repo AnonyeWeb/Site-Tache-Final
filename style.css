@@ -35,7 +35,7 @@ header{
     align-items: center;
     background: url('Image_noire.jpg');
     box-sizing: cover;
-    color: white;
+    color: rgb(250, 249, 249);
     padding: 40px;
 }
 header h1{
